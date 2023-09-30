@@ -1,0 +1,23 @@
+{
+  "name": "0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.http.js",
+  "scripts": {
+    "dev": "1.http.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickyb/node-0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickyb/node-0/issues"
+  },
+  "homepage": "https://github.com/erickyb/node-0#readme",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
